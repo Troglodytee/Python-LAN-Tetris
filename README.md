@@ -10,6 +10,6 @@ This is a reproduction of Tetris but in multiplayer.
 3. Run `main.pyw`
 ## Requirements
 - Python 3.7
-- Python pygame library
-- Python time library
-- Python random library
+- Python `pygame` library
+- Python `time` library
+- Python `random` library
